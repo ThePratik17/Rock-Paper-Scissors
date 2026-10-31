@@ -1,0 +1,1 @@
+Rock paper scissors game against computer. Score 5 points to win, draw 5 times to reach stalemate, or lose 5 times to get defeated by RNG.
