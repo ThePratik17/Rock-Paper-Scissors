@@ -12,7 +12,7 @@ function getComputerChoice() {
 }
 
 function getHumanChoice() {
-    return prompt("(enter 5 inputs consecutively)Choose rock, paper, or scissors:").toLowerCase();
+    return prompt("(Enter inputs consecutively, at most 9 times, until the pop up message disappears) Choose rock, paper, or scissors:").toLowerCase();
 }
 
 function playGame() {
